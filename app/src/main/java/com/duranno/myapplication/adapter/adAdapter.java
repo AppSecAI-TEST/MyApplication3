@@ -25,6 +25,7 @@ public class adAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     public adAdapter(Context context, List<bookinfoModel> listData){
         this.mContext = context;
         this.listData = listData;
+
     }
 
 
